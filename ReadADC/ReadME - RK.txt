@@ -1,0 +1,1 @@
+CUBEMX de proje olustururken right alignment i yapmadim, onu yapip, LSB den degerleri yazdirmaya baslayacaksin

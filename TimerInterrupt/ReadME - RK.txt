@@ -1,0 +1,1 @@
+CubeMX de bunu olustururken, interrupt timer kisminin en altinda update event de iki tane var. Ikisini de aktif yapman gerekiyor
